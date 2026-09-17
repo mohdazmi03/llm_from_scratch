@@ -1,2 +1,2 @@
 # llm_from_scratch
-bulding llm from scratch
+This repository contains related practice work and iterative learning progress for building an LLM from scratch.
